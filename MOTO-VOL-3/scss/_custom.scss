@@ -1,0 +1,27 @@
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1170px
+) !default;
+
+$body-color: #8d8f92;
+$link-color: #8d8f92;
+$link-decoration: underline;
+$paragraph-margin-bottom: 2rem;
+$font-family-base: 'Open Sans', sans-serif;
+$h1-font-size:2.25rem;
+$btn-padding-y-sm: 0.25rem;
+$btn-padding-x-sm: 0.625rem;
+$btn-font-size-sm: 0.875rem;
+$btn-border-width: 2px;
+$btn-border-radius-sm: 4px;
+$secondary: #a4aead;
+$navbar-padding-x: 0;
+$navbar-dark-toggler-border-color: none;
+$primary: transparent;
+$btn-font-size: 0.875rem;
+$carousel-indicator-width: 7px;
+$carousel-indicator-height: 7px;
+$alert-border-radius: 10px;
+$alert-border-width: 0;
